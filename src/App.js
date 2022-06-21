@@ -26,7 +26,7 @@ function App() {
               </NavLink>
             </span>
             <span>
-              <NavLink activeclassname="active" to="/film/detail">
+              <NavLink activeclassname="active" to="/about-us">
                 About Us
               </NavLink>
             </span>
