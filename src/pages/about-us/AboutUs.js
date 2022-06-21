@@ -1,7 +1,7 @@
-import React from 'react';
- 
-function Detail (){
-    return <h1>Welcome to detail.</h1>
+import React from "react";
+
+function AboutUs() {
+  return <h1>Welcome to about us.</h1>;
 }
- 
-export default Detail;
+
+export default AboutUs;
