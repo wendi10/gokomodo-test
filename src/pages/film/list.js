@@ -22,7 +22,7 @@ function List() {
       {isLoading && <Spinner></Spinner>}
       {!isLoading && data && (
         <>
-          <h1 className="title">Marvel Film List</h1>
+          <h1 className="title">Starwars Film List</h1>
           <table>
             <thead>
               <tr>
